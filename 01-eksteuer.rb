@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-
+#test
 # x ist das auf einen vollen Euro-Betrag
 # abgerundete zu versteuernde Einkommen.
 
